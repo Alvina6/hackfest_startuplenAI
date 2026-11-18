@@ -1,0 +1,8 @@
+{
+  "name": "StartupLens AI",
+  "description": "An AI-powered startup idea validation and planning platform that transforms an early idea into structured research, strategic analysis, and an actionable build roadmap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
